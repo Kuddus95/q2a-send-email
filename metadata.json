@@ -1,0 +1,11 @@
+{
+	"name": "Send Email",
+	"uri": "https://github.com/kuddus95/",
+	"description": "This plugin allows Admin to send email to any user.",
+	"version": "1.8",
+	"date": "2024-11-28",
+	"author": "Aman", 
+	"author_uri": "http://www.ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
